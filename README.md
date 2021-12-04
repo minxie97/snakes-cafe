@@ -4,4 +4,4 @@ Acknowledgements:
 
 PR URL:
 
-https://github.com/minxie97/snakes-cafe/pulls
+https://github.com/minxie97/snakes-cafe/pull/1
